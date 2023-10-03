@@ -5,4 +5,4 @@ let displayNeil = function(){
 let neil = document.getElementById("neil");
 let text = document.getElementById("text");
 neil.addEventListener("click", displayNeil);
-
+console.log("Hire me");
